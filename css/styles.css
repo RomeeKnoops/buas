@@ -18,11 +18,11 @@ body {
 }
 
 .resume-main {
-	background-color: lime;
+	background-color: white;
 }
 
 .resume-aside {
-	background-color: white;
+	background-color: palegreen;
 }
 
 /* Styles for lists in the document */
@@ -50,14 +50,14 @@ body {
 	flex-basis: 1.4em;
 }
 
-p
-	text: palegreen;
+.experience{
+	background-color:palegreen;
 }
 
-.font {
-  font-family: "Dancing Script", cursive;
-  font-optical-sizing: auto;
-  font-weight:<600>;
+.titlefont {
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
   font-style: normal;
 }
+
 
