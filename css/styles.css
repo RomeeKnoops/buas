@@ -2,7 +2,6 @@
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url('<link rel="stylesheet" href="https://use.typekit.net/yqh4rtq.css">');
 
 
 /* Styles for the body */
@@ -52,14 +51,21 @@ body {
 	flex-basis: 1.4em;
 }
 
-.experience{
-	background-color:palegreen;
+
+.language-progress {
+	background-color:lightpink;
 }
 
 .titlefont {
-  font-family: "Protest Guerrilla", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+ font-family: "amandine", sans-serif;
+font-weight: 700;
+font-style: normal;
+color: palegreen;
 }
 
-
+.subtitlefont {
+font-family: "amandine", sans-serif;
+font-weight: 300;
+font-style: italic;
+color: palegreen;
+}
